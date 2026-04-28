@@ -99,3 +99,6 @@ GO
 
 SELECT N'Database ClinicAdoNet was created and seeded.' AS Message;
 GO
+
+
+Select * From Appointments
